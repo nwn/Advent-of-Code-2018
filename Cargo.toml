@@ -5,6 +5,7 @@ authors = ["Nathan Wiebe Neufeldt <wn.nathan@gmail.com>"]
 
 [dependencies]
 regex = "1"
+linked-list = "0.0.3"
 
 [[bin]]
 name = "01a"
@@ -69,3 +70,11 @@ path = "src/08a.rs"
 [[bin]]
 name = "08b"
 path = "src/08b.rs"
+
+[[bin]]
+name = "09a"
+path = "src/09a.rs"
+
+[[bin]]
+name = "09b"
+path = "src/09b.rs"

@@ -2,6 +2,7 @@
 name = "aoc_2018"
 version = "0.1.0"
 authors = ["Nathan Wiebe Neufeldt <wn.nathan@gmail.com>"]
+edition = "2018"
 
 [dependencies]
 regex = "1"
@@ -118,3 +119,11 @@ path = "src/14a.rs"
 [[bin]]
 name = "14b"
 path = "src/14b.rs"
+
+[[bin]]
+name = "15a"
+path = "src/15a.rs"
+
+[[bin]]
+name = "15b"
+path = "src/15b.rs"
